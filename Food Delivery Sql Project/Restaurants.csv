@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,cuisine_type,city,rating
+1,Spice Hub,Mughlai,Pune,4.6
+2,Spice Point,Italian,Kochi,4.8
+3,Spice Zone,Indian,Varanasi,4.9
+4,Spice Kitchen,Italian,Coimbatore,4
+5,Spice House,Italian,Mumbai,3.6
+6,Spice Palace,Italian,Surat,4.8
+7,Spice Corner,Chinese,Indore,4.6
+8,Spice Bites,Italian,Lucknow,4.1
+9,Spice Bowl,Chinese,Kolkata,4.7
+10,Spice Grill,Italian,Jaipur,5
+11,Spice Cafe,Seafood,Mumbai,4.5
+12,Spice Dhaba,Indian,Lucknow,4.5
+13,Spice Express,Mughlai,Lucknow,3
+14,Spice Junction,Mughlai,Jaipur,4.1
+15,Spice Garden,Fast Food,Kolkata,4.8
+16,Spice Lounge,Fast Food,Kochi,4.7
+17,Spice Spot,Indian,Mumbai,3.2
+18,Spice Hut,Italian,Delhi,3.8
+19,Spice Inn,Italian,Hyderabad,4.4
+20,Spice Treats,Fast Food,Varanasi,3.9
+21,Spice Flavors,Fast Food,Kochi,3.9
+22,Spice Delight,Continental,Surat,3.1
+23,Spice Feast,Fast Food,Nagpur,4.5
+24,Spice Den,Fast Food,Pune,3
+25,Spice Eatery,Mughlai,Bhopal,4.4
+26,Spice Tadka,Continental,Chennai,4.8
+27,Spice Adda,Chinese,Surat,3.1
+28,Spice Dine,Indian,Varanasi,4.9
+29,Spice Platter,Italian,Ahmedabad,3.8
+30,Spice Station,Mughlai,Ahmedabad,3.9
+31,Spice Bistro,Healthy,Surat,3.8
+32,Spice Nook,Chinese,Lucknow,4.6
+33,Spice Terrace,Italian,Kolkata,4.9
+34,Spice Table,Thai,Lucknow,4.2
+35,Spice Fork,Italian,Varanasi,3.3
+36,Spice Square,Chinese,Kanpur,4.7
+37,Spice Street,Fast Food,Lucknow,4.9
+38,Royal Hub,Continental,Chandigarh,4.3
+39,Royal Point,Indian,Patna,3.5
+40,Royal Zone,Indian,Ahmedabad,4.7
+41,Royal Kitchen,Indian,Kolkata,3.4
+42,Royal House,Indian,Varanasi,3.1
+43,Royal Palace,Thai,Patna,4.1
+44,Royal Corner,Seafood,Kanpur,3
+45,Royal Bites,Thai,Indore,3
+46,Royal Bowl,Indian,Bangalore,3.9
+47,Royal Grill,South Indian,Chandigarh,4.6
+48,Royal Cafe,South Indian,Pune,4.4
+49,Royal Dhaba,Italian,Mumbai,4.6
+50,Royal Express,Chinese,Jaipur,4.9
+51,Royal Junction,Chinese,Patna,4.6
+52,Royal Garden,Fast Food,Jaipur,4.2
+53,Royal Lounge,Italian,Bangalore,4.4
+54,Royal Spot,Indian,Nagpur,4
+55,Royal Hut,Fast Food,Hyderabad,4.7
+56,Royal Inn,Mughlai,Bangalore,3.5
+57,Royal Treats,Indian,Coimbatore,3.3
+58,Royal Flavors,South Indian,Kochi,3.9
+59,Royal Delight,Italian,Pune,3
+60,Royal Feast,Indian,Bangalore,3.7
+61,Royal Den,Fast Food,Ahmedabad,3.5
+62,Royal Eatery,Healthy,Patna,4
+63,Royal Tadka,Healthy,Chandigarh,3.6
+64,Royal Adda,Chinese,Pune,4.5
+65,Royal Dine,Italian,Nagpur,5
+66,Royal Platter,Italian,Kolkata,4.6
+67,Royal Station,Indian,Nagpur,3.7
+68,Royal Bistro,South Indian,Delhi,4.7
+69,Royal Nook,Chinese,Bangalore,4
+70,Royal Terrace,South Indian,Nagpur,4.2
+71,Royal Table,Chinese,Varanasi,4
+72,Royal Fork,South Indian,Indore,4.7
+73,Royal Square,Chinese,Jaipur,4.5
+74,Royal Street,Mexican,Indore,3.5
+75,Green Hub,Chinese,Nagpur,4.6
+76,Green Point,Fast Food,Nagpur,4.9
+77,Green Zone,Fast Food,Bhopal,3.3
+78,Green Kitchen,Indian,Delhi,3.2
+79,Green House,Indian,Lucknow,4
+80,Green Palace,Indian,Indore,3.3
+81,Green Corner,Indian,Bangalore,4.9
+82,Green Bites,Fast Food,Bangalore,4.8
+83,Green Bowl,Mughlai,Mumbai,4.6
+84,Green Grill,Fast Food,Kolkata,4.8
+85,Green Cafe,Mughlai,Nagpur,3
+86,Green Dhaba,Indian,Bhopal,4
+87,Green Express,Mughlai,Jaipur,3.4
+88,Green Junction,Seafood,Indore,3.6
+89,Green Garden,Fast Food,Pune,3.8
+90,Green Lounge,Indian,Chennai,4.7
+91,Green Spot,Italian,Patna,4.9
+92,Green Hut,Continental,Hyderabad,3.6
+93,Green Inn,Indian,Pune,3.5
+94,Green Treats,Fast Food,Coimbatore,4.9
+95,Green Flavors,Fast Food,Kolkata,3.4
+96,Green Delight,Fast Food,Pune,4.1
+97,Green Feast,Italian,Varanasi,4.9
+98,Green Den,Healthy,Ahmedabad,3.7
+99,Green Eatery,Italian,Kolkata,3.4
+100,Green Tadka,Mughlai,Hyderabad,3.1
+101,Green Adda,Chinese,Delhi,4.6
+102,Green Dine,Mughlai,Lucknow,4.8
+103,Green Platter,Fast Food,Coimbatore,4.3
+104,Green Station,South Indian,Kanpur,3.5
+105,Green Bistro,Indian,Patna,4.1
+106,Green Nook,Fast Food,Mumbai,3.5
+107,Green Terrace,Seafood,Mumbai,3.7
+108,Green Table,Healthy,Chennai,3.8
+109,Green Fork,Indian,Jaipur,3.3
+110,Green Square,Indian,Kanpur,3.7
+111,Green Street,Chinese,Jaipur,3.7
+112,Golden Hub,Healthy,Jaipur,3.3
+113,Golden Point,Street Food,Indore,4.1
+114,Golden Zone,Healthy,Lucknow,3.4
+115,Golden Kitchen,Indian,Surat,4.3
+116,Golden House,Fast Food,Chennai,4.9
+117,Golden Palace,Continental,Chandigarh,3.3
+118,Golden Corner,Mughlai,Hyderabad,4.4
+119,Golden Bites,Fast Food,Kolkata,3
+120,Golden Bowl,Healthy,Hyderabad,3.3
+121,Golden Grill,Mughlai,Ahmedabad,4.9
+122,Golden Cafe,Italian,Kanpur,3.3
+123,Golden Dhaba,Italian,Mumbai,3.2
+124,Golden Express,Indian,Patna,4.8
+125,Golden Junction,South Indian,Kochi,4.3
+126,Golden Garden,Mughlai,Kolkata,4.3
+127,Golden Lounge,Healthy,Patna,4.5
+128,Golden Spot,Thai,Varanasi,4.2
+129,Golden Hut,Mughlai,Indore,3.8
+130,Golden Inn,South Indian,Kanpur,3
+131,Golden Treats,Fast Food,Mumbai,4.8
+132,Golden Flavors,Thai,Bangalore,4
+133,Golden Delight,Italian,Lucknow,4.8
+134,Golden Feast,Fast Food,Hyderabad,4
+135,Golden Den,Healthy,Bangalore,3.4
+136,Golden Eatery,Indian,Kolkata,3.6
+137,Golden Tadka,Thai,Pune,4.9
+138,Golden Adda,Indian,Kolkata,3.4
+139,Golden Dine,Mughlai,Bhopal,4
+140,Golden Platter,Chinese,Kanpur,3.5
+141,Golden Station,Italian,Coimbatore,3
+142,Golden Bistro,Indian,Kanpur,3.3
+143,Golden Nook,Italian,Pune,3.2
+144,Golden Terrace,Indian,Kanpur,3.8
+145,Golden Table,South Indian,Delhi,4.6
+146,Golden Fork,Mughlai,Varanasi,4.4
+147,Golden Square,Indian,Kochi,3.8
+148,Golden Street,Italian,Kanpur,3.8
+149,Star Hub,Italian,Coimbatore,3.2
+150,Star Point,Italian,Chennai,3.2
+151,Star Zone,Chinese,Jaipur,4.1
+152,Star Kitchen,Indian,Coimbatore,4.7
+153,Star House,Mughlai,Indore,4.9
+154,Star Palace,Street Food,Nagpur,3.6
+155,Star Corner,South Indian,Mumbai,3.4
+156,Star Bites,Street Food,Varanasi,4.6
+157,Star Bowl,Chinese,Indore,3.8
+158,Star Grill,Chinese,Delhi,4.8
+159,Star Cafe,Continental,Kochi,3.7
+160,Star Dhaba,Fast Food,Varanasi,3.6
+161,Star Express,Italian,Kanpur,3.7
+162,Star Junction,Indian,Chennai,4.5
+163,Star Garden,Mexican,Chandigarh,3.1
+164,Star Lounge,South Indian,Pune,3.4
+165,Star Spot,Chinese,Mumbai,4.5
+166,Star Hut,Mughlai,Coimbatore,4.1
+167,Star Inn,South Indian,Jaipur,4.7
+168,Star Treats,Healthy,Pune,4.6
+169,Star Flavors,Street Food,Patna,4.6
+170,Star Delight,Healthy,Chandigarh,4.6
+171,Star Feast,Fast Food,Chennai,4.2
+172,Star Den,Mexican,Kanpur,3
+173,Star Eatery,Indian,Bhopal,4.9
+174,Star Tadka,Mughlai,Bangalore,4.7
+175,Star Adda,Indian,Hyderabad,4.3
+176,Star Dine,Indian,Chandigarh,3.6
+177,Star Platter,Street Food,Patna,4.5
+178,Star Station,Thai,Lucknow,4.4
+179,Star Bistro,Mexican,Ahmedabad,5
+180,Star Nook,Fast Food,Bangalore,3.9
+181,Star Terrace,Continental,Chennai,3.1
+182,Star Table,Fast Food,Patna,3.5
+183,Star Fork,Seafood,Bangalore,4.6
+184,Star Square,Fast Food,Mumbai,4
+185,Star Street,Indian,Chandigarh,3.2
+186,Classic Hub,Indian,Kolkata,4
+187,Classic Point,South Indian,Lucknow,3.3
+188,Classic Zone,Italian,Bhopal,3.3
+189,Classic Kitchen,Healthy,Delhi,3
+190,Classic House,Healthy,Bangalore,4.6
+191,Classic Palace,Chinese,Nagpur,4.8
+192,Classic Corner,Thai,Chennai,4.2
+193,Classic Bites,Italian,Coimbatore,3.9
+194,Classic Bowl,South Indian,Bhopal,4.1
+195,Classic Grill,Street Food,Kanpur,4.1
+196,Classic Cafe,Continental,Mumbai,4.5
+197,Classic Dhaba,Indian,Hyderabad,4.8
+198,Classic Express,Fast Food,Coimbatore,4.4
+199,Classic Junction,Fast Food,Kochi,3.3
+200,Classic Garden,Mughlai,Lucknow,3

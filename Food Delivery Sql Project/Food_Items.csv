@@ -1,0 +1,501 @@
+item_id,restaurant_id,item_name,Category,Price
+1,1,Fish Burger,Burger,195
+2,1,Dal Makhani,Main Course,275
+3,1,Tandoori Roti,Bread,30
+4,1,Pav Bhaji,Main Course,135
+5,1,Jeera Rice,Rice,145
+6,1,Veg Biryani,Rice,295
+7,1,Protein Bowl,Healthy,270
+8,1,Paneer Burger,Burger,205
+9,1,Palak Paneer,Main Course,205
+10,1,Butter Chicken,Main Course,325
+11,1,Pav Bhaji,Main Course,185
+12,1,Double Patty Burger,Burger,225
+13,1,Aloo Tikki Burger,Burger,125
+14,1,Paneer Biryani,Rice,325
+15,1,Egg Biryani,Rice,290
+16,1,Veg Supreme Pizza,Pizza,375
+17,1,Pepperoni Pizza,Pizza,530
+18,1,Tandoori Roti,Bread,25
+19,1,Prawn Biryani,Rice,390
+20,1,Egg Biryani,Rice,275
+21,1,Laccha Paratha,Bread,60
+22,1,Aloo Gobi,Main Course,165
+23,1,Prawn Biryani,Rice,435
+24,1,Mutton Rogan Josh,Main Course,375
+25,1,Cheese Pizza,Pizza,305
+26,1,Aloo Paratha,Bread,85
+27,1,Aloo Paratha,Bread,80
+28,1,Garlic Naan,Bread,70
+29,1,Palak Paneer,Main Course,295
+30,1,Farmhouse Pizza,Pizza,465
+31,1,Kadai Paneer,Main Course,260
+32,1,Butter Chicken,Main Course,370
+33,1,Paratha,Bread,65
+34,1,Fish Burger,Burger,260
+35,1,Avocado Toast,Healthy,310
+36,1,Stuffed Naan,Bread,95
+37,1,Rajma Masala,Main Course,240
+38,1,Chicken Tikka Masala,Main Course,285
+39,1,Mutton Biryani,Rice,380
+40,1,Hyderabadi Biryani,Rice,375
+41,1,Butter Chicken,Main Course,410
+42,1,Pav Bhaji,Main Course,130
+43,1,Cheese Pizza,Pizza,350
+44,1,Farmhouse Pizza,Pizza,490
+45,1,Quinoa Bowl,Healthy,265
+46,1,Egg Curry,Main Course,225
+47,1,Aloo Paratha,Bread,65
+48,1,Mutton Biryani,Rice,390
+49,1,Egg Biryani,Rice,305
+50,1,Chicken Biryani,Rice,270
+51,2,Double Patty Burger,Burger,300
+52,2,Egg Curry,Main Course,250
+53,2,Fried Rice,Rice,190
+54,2,Egg Curry,Main Course,240
+55,2,Cheese Pizza,Pizza,350
+56,2,Oats Bowl,Healthy,210
+57,2,Pav Bhaji,Main Course,160
+58,2,Quinoa Bowl,Healthy,320
+59,2,Hyderabadi Biryani,Rice,315
+60,2,Pav Bhaji,Main Course,125
+61,2,Caesar Salad,Healthy,220
+62,2,Margherita Pizza,Pizza,320
+63,2,Chicken Tikka Masala,Main Course,305
+64,2,Green Smoothie Bowl,Healthy,260
+65,2,Avocado Toast,Healthy,290
+66,2,Missi Roti,Bread,35
+67,2,Chicken Biryani,Rice,325
+68,2,Margherita Pizza,Pizza,365
+69,2,Aloo Gobi,Main Course,175
+70,2,Chana Masala,Main Course,190
+71,2,Jeera Rice,Rice,200
+72,2,Garlic Naan,Bread,70
+73,2,Paneer Burger,Burger,205
+74,2,Protein Bowl,Healthy,350
+75,2,Stuffed Naan,Bread,75
+76,2,Chana Masala,Main Course,225
+77,2,Paneer Tikka Pizza,Pizza,365
+78,2,Prawn Biryani,Rice,360
+79,2,Sprouts Salad,Healthy,115
+80,2,Aloo Gobi,Main Course,220
+81,2,Egg Curry,Main Course,235
+82,2,Double Patty Burger,Burger,230
+83,2,Cheese Pizza,Pizza,375
+84,2,Double Patty Burger,Burger,280
+85,2,Veg Burger,Burger,150
+86,2,Aloo Tikki Burger,Burger,100
+87,2,Veg Biryani,Rice,290
+88,2,Kadai Paneer,Main Course,295
+89,2,Avocado Toast,Healthy,270
+90,2,Prawn Biryani,Rice,420
+91,2,Hyderabadi Biryani,Rice,385
+92,2,Kadai Paneer,Main Course,245
+93,2,Chicken BBQ Pizza,Pizza,410
+94,2,Farmhouse Pizza,Pizza,330
+95,2,Fried Rice,Rice,250
+96,2,Garlic Naan,Bread,60
+97,2,Prawn Biryani,Rice,395
+98,2,Mushroom Pizza,Pizza,325
+99,2,Sprouts Salad,Healthy,180
+100,2,Puri,Bread,40
+101,3,Mushroom Pizza,Pizza,455
+102,3,Rajma Masala,Main Course,170
+103,3,Stuffed Naan,Bread,70
+104,3,Chicken Burger,Burger,260
+105,3,Oats Bowl,Healthy,205
+106,3,Green Smoothie Bowl,Healthy,190
+107,3,Double Patty Burger,Burger,260
+108,3,Paneer Tikka Pizza,Pizza,345
+109,3,Kadai Paneer,Main Course,255
+110,3,Avocado Toast,Healthy,305
+111,3,Caesar Salad,Healthy,220
+112,3,Butter Naan,Bread,35
+113,3,Butter Naan,Bread,55
+114,3,Butter Chicken,Main Course,310
+115,3,Fried Rice,Rice,220
+116,3,Greek Salad,Healthy,180
+117,3,Prawn Biryani,Rice,485
+118,3,Hyderabadi Biryani,Rice,330
+119,3,Chana Masala,Main Course,245
+120,3,Double Cheese Pizza,Pizza,490
+121,3,Egg Curry,Main Course,215
+122,3,Veg Burger,Burger,195
+123,3,Chicken BBQ Pizza,Pizza,425
+124,3,Oats Bowl,Healthy,210
+125,3,Prawn Biryani,Rice,400
+126,3,Paneer Biryani,Rice,280
+127,3,Margherita Pizza,Pizza,345
+128,3,Pepperoni Pizza,Pizza,510
+129,3,Pepperoni Pizza,Pizza,410
+130,3,Butter Naan,Bread,40
+131,3,Chicken Tikka Masala,Main Course,325
+132,3,Dal Makhani,Main Course,255
+133,3,Aloo Tikki Burger,Burger,130
+134,3,Paneer Burger,Burger,180
+135,3,Paneer Butter Masala,Main Course,230
+136,3,Paneer Biryani,Rice,320
+137,3,Shahi Paneer,Main Course,270
+138,3,Chicken Tikka Masala,Main Course,395
+139,3,Palak Paneer,Main Course,240
+140,3,Chicken Tikka Masala,Main Course,345
+141,3,Butter Naan,Bread,45
+142,3,Mutton Biryani,Rice,445
+143,3,Mix Veg Curry,Main Course,230
+144,3,Chana Masala,Main Course,235
+145,3,Crispy Chicken Burger,Burger,240
+146,3,Butter Naan,Bread,50
+147,3,Caesar Salad,Healthy,230
+148,3,Rajma Masala,Main Course,160
+149,3,Mutton Rogan Josh,Main Course,460
+150,3,Aloo Paratha,Bread,75
+151,4,Veg Supreme Pizza,Pizza,440
+152,4,Sprouts Salad,Healthy,105
+153,4,Veg Biryani,Rice,285
+154,4,Chicken Biryani,Rice,270
+155,4,Shahi Paneer,Main Course,290
+156,4,Fried Rice,Rice,205
+157,4,Caesar Salad,Healthy,195
+158,4,Butter Naan,Bread,40
+159,4,Rajma Masala,Main Course,220
+160,4,Pepperoni Pizza,Pizza,415
+161,4,Chicken BBQ Pizza,Pizza,415
+162,4,Tandoori Roti,Bread,40
+163,4,Butter Naan,Bread,35
+164,4,Pepperoni Pizza,Pizza,520
+165,4,Mutton Rogan Josh,Main Course,360
+166,4,Chicken Biryani,Rice,330
+167,4,Quinoa Bowl,Healthy,220
+168,4,Butter Chicken,Main Course,420
+169,4,Prawn Biryani,Rice,410
+170,4,Egg Curry,Main Course,230
+171,4,Paneer Tikka Pizza,Pizza,465
+172,4,Mix Veg Curry,Main Course,210
+173,4,Protein Bowl,Healthy,265
+174,4,Egg Curry,Main Course,230
+175,4,Paneer Butter Masala,Main Course,270
+176,4,Garlic Naan,Bread,70
+177,4,Schezwan Fried Rice,Rice,240
+178,4,Paratha,Bread,55
+179,4,Egg Biryani,Rice,315
+180,4,Schezwan Fried Rice,Rice,250
+181,4,Mutton Biryani,Rice,445
+182,4,Aloo Gobi,Main Course,165
+183,4,Paratha,Bread,45
+184,4,Shahi Paneer,Main Course,315
+185,4,Jeera Rice,Rice,200
+186,4,Shahi Paneer,Main Course,335
+187,4,Missi Roti,Bread,30
+188,4,Shahi Paneer,Main Course,315
+189,4,Double Cheese Pizza,Pizza,480
+190,4,Green Smoothie Bowl,Healthy,300
+191,4,Veg Burger,Burger,140
+192,4,Shahi Paneer,Main Course,305
+193,4,Butter Chicken,Main Course,410
+194,4,Fish Curry,Main Course,290
+195,4,Double Patty Burger,Burger,230
+196,4,Veg Biryani,Rice,230
+197,4,Margherita Pizza,Pizza,280
+198,4,Avocado Toast,Healthy,270
+199,4,Butter Naan,Bread,55
+200,4,Double Patty Burger,Burger,225
+201,5,Mushroom Swiss Burger,Burger,210
+202,5,Veg Supreme Pizza,Pizza,490
+203,5,Paneer Burger,Burger,220
+204,5,Veg Burger,Burger,160
+205,5,Oats Bowl,Healthy,175
+206,5,Mix Veg Curry,Main Course,245
+207,5,Paneer Biryani,Rice,280
+208,5,Butter Naan,Bread,45
+209,5,Margherita Pizza,Pizza,285
+210,5,Mutton Biryani,Rice,395
+211,5,Farmhouse Pizza,Pizza,410
+212,5,Oats Bowl,Healthy,150
+213,5,Paneer Butter Masala,Main Course,280
+214,5,Mushroom Swiss Burger,Burger,270
+215,5,Mutton Rogan Josh,Main Course,370
+216,5,Chicken Burger,Burger,185
+217,5,Mushroom Pizza,Pizza,365
+218,5,Chana Masala,Main Course,205
+219,5,Avocado Toast,Healthy,210
+220,5,Avocado Toast,Healthy,230
+221,5,Stuffed Naan,Bread,80
+222,5,Egg Curry,Main Course,235
+223,5,Quinoa Bowl,Healthy,290
+224,5,Paneer Biryani,Rice,280
+225,5,Mushroom Swiss Burger,Burger,305
+226,5,Chicken Biryani,Rice,325
+227,5,Paneer Butter Masala,Main Course,305
+228,5,Greek Salad,Healthy,240
+229,5,Puri,Bread,25
+230,5,Avocado Toast,Healthy,215
+231,5,Garlic Naan,Bread,50
+232,5,Avocado Toast,Healthy,215
+233,5,Jeera Rice,Rice,200
+234,5,Aloo Gobi,Main Course,175
+235,5,Paratha,Bread,60
+236,5,Mix Veg Curry,Main Course,205
+237,5,Mix Veg Curry,Main Course,245
+238,5,Fish Burger,Burger,215
+239,5,Mushroom Pizza,Pizza,425
+240,5,Garlic Naan,Bread,45
+241,5,Butter Chicken,Main Course,380
+242,5,Chicken BBQ Pizza,Pizza,440
+243,5,Palak Paneer,Main Course,200
+244,5,Laccha Paratha,Bread,75
+245,5,Chana Masala,Main Course,240
+246,5,Garlic Naan,Bread,50
+247,5,Jeera Rice,Rice,185
+248,5,Aloo Tikki Burger,Burger,155
+249,5,Aloo Tikki Burger,Burger,100
+250,5,Kadai Paneer,Main Course,220
+251,6,Avocado Toast,Healthy,290
+252,6,Protein Bowl,Healthy,290
+253,6,Chicken Burger,Burger,165
+254,6,Quinoa Bowl,Healthy,265
+255,6,Paneer Burger,Burger,220
+256,6,Aloo Gobi,Main Course,195
+257,6,Chana Masala,Main Course,165
+258,6,Puri,Bread,30
+259,6,Protein Bowl,Healthy,260
+260,6,Protein Bowl,Healthy,340
+261,6,Mix Veg Curry,Main Course,245
+262,6,Butter Naan,Bread,40
+263,6,Aloo Paratha,Bread,85
+264,6,Aloo Tikki Burger,Burger,150
+265,6,Mushroom Swiss Burger,Burger,295
+266,6,Aloo Gobi,Main Course,170
+267,6,Sprouts Salad,Healthy,120
+268,6,Caesar Salad,Healthy,200
+269,6,Avocado Toast,Healthy,250
+270,6,Dal Makhani,Main Course,200
+271,6,Jeera Rice,Rice,170
+272,6,Schezwan Fried Rice,Rice,230
+273,6,Caesar Salad,Healthy,265
+274,6,Sprouts Salad,Healthy,130
+275,6,Tandoori Roti,Bread,30
+276,6,Schezwan Fried Rice,Rice,270
+277,6,Mutton Rogan Josh,Main Course,445
+278,6,Sprouts Salad,Healthy,105
+279,6,Fruit Bowl,Healthy,180
+280,6,Pav Bhaji,Main Course,145
+281,6,Greek Salad,Healthy,230
+282,6,Aloo Paratha,Bread,70
+283,6,Greek Salad,Healthy,200
+284,6,Pav Bhaji,Main Course,125
+285,6,Mutton Biryani,Rice,370
+286,6,Margherita Pizza,Pizza,335
+287,6,Tandoori Roti,Bread,25
+288,6,Hyderabadi Biryani,Rice,370
+289,6,Aloo Paratha,Bread,80
+290,6,Mushroom Pizza,Pizza,400
+291,6,Veg Biryani,Rice,270
+292,6,Laccha Paratha,Bread,80
+293,6,Dal Makhani,Main Course,195
+294,6,Avocado Toast,Healthy,235
+295,6,Fish Curry,Main Course,355
+296,6,Garlic Naan,Bread,45
+297,6,Mutton Rogan Josh,Main Course,460
+298,6,Aloo Paratha,Bread,85
+299,6,Schezwan Fried Rice,Rice,220
+300,6,Chicken BBQ Pizza,Pizza,525
+301,7,Mushroom Pizza,Pizza,330
+302,7,Cheese Pizza,Pizza,425
+303,7,Rajma Masala,Main Course,180
+304,7,Palak Paneer,Main Course,290
+305,7,Chicken BBQ Pizza,Pizza,370
+306,7,Veg Burger,Burger,190
+307,7,Veg Biryani,Rice,290
+308,7,Jeera Rice,Rice,155
+309,7,Stuffed Naan,Bread,85
+310,7,Chicken Tikka Masala,Main Course,365
+311,7,Green Smoothie Bowl,Healthy,230
+312,7,Mushroom Swiss Burger,Burger,240
+313,7,Mutton Biryani,Rice,350
+314,7,Fried Rice,Rice,200
+315,7,Mushroom Pizza,Pizza,380
+316,7,Mutton Biryani,Rice,425
+317,7,Missi Roti,Bread,40
+318,7,Egg Biryani,Rice,255
+319,7,Aloo Tikki Burger,Burger,115
+320,7,Rajma Masala,Main Course,205
+321,7,Mutton Biryani,Rice,415
+322,7,Veg Biryani,Rice,295
+323,7,Protein Bowl,Healthy,295
+324,7,Mushroom Swiss Burger,Burger,270
+325,7,Puri,Bread,30
+326,7,Aloo Tikki Burger,Burger,100
+327,7,Puri,Bread,30
+328,7,Mix Veg Curry,Main Course,215
+329,7,Schezwan Fried Rice,Rice,255
+330,7,Double Patty Burger,Burger,305
+331,7,Missi Roti,Bread,45
+332,7,Pepperoni Pizza,Pizza,495
+333,7,Veg Biryani,Rice,225
+334,7,Mushroom Pizza,Pizza,420
+335,7,Schezwan Fried Rice,Rice,275
+336,7,Egg Curry,Main Course,190
+337,7,Paratha,Bread,55
+338,7,Mutton Biryani,Rice,405
+339,7,Butter Chicken,Main Course,405
+340,7,Prawn Biryani,Rice,410
+341,7,Veg Biryani,Rice,240
+342,7,Pav Bhaji,Main Course,145
+343,7,Aloo Gobi,Main Course,145
+344,7,Palak Paneer,Main Course,230
+345,7,Double Cheese Pizza,Pizza,505
+346,7,Fruit Bowl,Healthy,130
+347,7,Farmhouse Pizza,Pizza,435
+348,7,Avocado Toast,Healthy,280
+349,7,Crispy Chicken Burger,Burger,205
+350,7,Paneer Biryani,Rice,330
+351,8,Cheese Pizza,Pizza,405
+352,8,Margherita Pizza,Pizza,310
+353,8,Aloo Gobi,Main Course,140
+354,8,Protein Bowl,Healthy,275
+355,8,Hyderabadi Biryani,Rice,410
+356,8,Pav Bhaji,Main Course,140
+357,8,Caesar Salad,Healthy,270
+358,8,Veg Burger,Burger,180
+359,8,Shahi Paneer,Main Course,310
+360,8,Butter Naan,Bread,40
+361,8,Farmhouse Pizza,Pizza,365
+362,8,Caesar Salad,Healthy,240
+363,8,Mutton Biryani,Rice,455
+364,8,Aloo Tikki Burger,Burger,175
+365,8,Missi Roti,Bread,45
+366,8,Mushroom Swiss Burger,Burger,305
+367,8,Fried Rice,Rice,225
+368,8,Chicken BBQ Pizza,Pizza,510
+369,8,Pepperoni Pizza,Pizza,420
+370,8,Jeera Rice,Rice,190
+371,8,Pepperoni Pizza,Pizza,445
+372,8,Prawn Biryani,Rice,415
+373,8,Quinoa Bowl,Healthy,300
+374,8,Tandoori Roti,Bread,40
+375,8,Paneer Tikka Pizza,Pizza,500
+376,8,Butter Naan,Bread,45
+377,8,Pepperoni Pizza,Pizza,400
+378,8,Paneer Biryani,Rice,275
+379,8,Butter Naan,Bread,45
+380,8,Laccha Paratha,Bread,60
+381,8,Protein Bowl,Healthy,270
+382,8,Chana Masala,Main Course,180
+383,8,Pav Bhaji,Main Course,170
+384,8,Egg Biryani,Rice,240
+385,8,Paneer Biryani,Rice,265
+386,8,Chicken Tikka Masala,Main Course,335
+387,8,Veg Supreme Pizza,Pizza,405
+388,8,Chicken Burger,Burger,220
+389,8,Veg Supreme Pizza,Pizza,335
+390,8,Mix Veg Curry,Main Course,215
+391,8,Cheese Pizza,Pizza,430
+392,8,Egg Biryani,Rice,220
+393,8,Fruit Bowl,Healthy,195
+394,8,Cheese Pizza,Pizza,400
+395,8,Paneer Butter Masala,Main Course,265
+396,8,Puri,Bread,30
+397,8,Fruit Bowl,Healthy,175
+398,8,Chicken Burger,Burger,255
+399,8,Jeera Rice,Rice,200
+400,8,Caesar Salad,Healthy,255
+401,9,Protein Bowl,Healthy,305
+402,9,Paneer Tikka Pizza,Pizza,395
+403,9,Tandoori Roti,Bread,40
+404,9,Paneer Tikka Pizza,Pizza,345
+405,9,Cheese Pizza,Pizza,365
+406,9,Mutton Biryani,Rice,425
+407,9,Fried Rice,Rice,180
+408,9,Quinoa Bowl,Healthy,280
+409,9,Green Smoothie Bowl,Healthy,205
+410,9,Mushroom Swiss Burger,Burger,270
+411,9,Dal Makhani,Main Course,230
+412,9,Paneer Burger,Burger,220
+413,9,Mutton Biryani,Rice,325
+414,9,Butter Chicken,Main Course,380
+415,9,Chicken BBQ Pizza,Pizza,405
+416,9,Sprouts Salad,Healthy,160
+417,9,Fish Curry,Main Course,285
+418,9,Garlic Naan,Bread,55
+419,9,Missi Roti,Bread,35
+420,9,Farmhouse Pizza,Pizza,415
+421,9,Laccha Paratha,Bread,75
+422,9,Avocado Toast,Healthy,250
+423,9,Tandoori Roti,Bread,40
+424,9,Garlic Naan,Bread,45
+425,9,Double Cheese Pizza,Pizza,355
+426,9,Jeera Rice,Rice,200
+427,9,Shahi Paneer,Main Course,285
+428,9,Pav Bhaji,Main Course,130
+429,9,Hyderabadi Biryani,Rice,310
+430,9,Prawn Biryani,Rice,355
+431,9,Butter Naan,Bread,40
+432,9,Quinoa Bowl,Healthy,220
+433,9,Mushroom Swiss Burger,Burger,220
+434,9,Butter Naan,Bread,40
+435,9,Double Cheese Pizza,Pizza,520
+436,9,Kadai Paneer,Main Course,280
+437,9,Mix Veg Curry,Main Course,220
+438,9,Egg Biryani,Rice,250
+439,9,Hyderabadi Biryani,Rice,395
+440,9,Egg Curry,Main Course,255
+441,9,Double Patty Burger,Burger,315
+442,9,Paneer Biryani,Rice,255
+443,9,Hyderabadi Biryani,Rice,340
+444,9,Puri,Bread,25
+445,9,Paneer Burger,Burger,155
+446,9,Oats Bowl,Healthy,180
+447,9,Crispy Chicken Burger,Burger,265
+448,9,Green Smoothie Bowl,Healthy,240
+449,9,Margherita Pizza,Pizza,300
+450,9,Chicken Tikka Masala,Main Course,355
+451,10,Egg Biryani,Rice,300
+452,10,Butter Naan,Bread,40
+453,10,Egg Biryani,Rice,320
+454,10,Puri,Bread,40
+455,10,Caesar Salad,Healthy,195
+456,10,Schezwan Fried Rice,Rice,250
+457,10,Schezwan Fried Rice,Rice,185
+458,10,Aloo Paratha,Bread,75
+459,10,Chicken BBQ Pizza,Pizza,540
+460,10,Stuffed Naan,Bread,65
+461,10,Mushroom Pizza,Pizza,465
+462,10,Laccha Paratha,Bread,50
+463,10,Fruit Bowl,Healthy,175
+464,10,Greek Salad,Healthy,230
+465,10,Mutton Rogan Josh,Main Course,460
+466,10,Stuffed Naan,Bread,100
+467,10,Protein Bowl,Healthy,365
+468,10,Paneer Biryani,Rice,260
+469,10,Chicken BBQ Pizza,Pizza,415
+470,10,Fried Rice,Rice,225
+471,10,Chicken Biryani,Rice,295
+472,10,Mushroom Swiss Burger,Burger,305
+473,10,Green Smoothie Bowl,Healthy,260
+474,10,Hyderabadi Biryani,Rice,425
+475,10,Farmhouse Pizza,Pizza,440
+476,10,Greek Salad,Healthy,265
+477,10,Paneer Burger,Burger,185
+478,10,Missi Roti,Bread,35
+479,10,Quinoa Bowl,Healthy,340
+480,10,Butter Chicken,Main Course,335
+481,10,Avocado Toast,Healthy,255
+482,10,Butter Naan,Bread,50
+483,10,Crispy Chicken Burger,Burger,260
+484,10,Mutton Biryani,Rice,415
+485,10,Laccha Paratha,Bread,50
+486,10,Paneer Tikka Pizza,Pizza,425
+487,10,Fish Curry,Main Course,340
+488,10,Mix Veg Curry,Main Course,205
+489,10,Caesar Salad,Healthy,215
+490,10,Laccha Paratha,Bread,60
+491,10,Avocado Toast,Healthy,275
+492,10,Egg Biryani,Rice,255
+493,10,Aloo Tikki Burger,Burger,100
+494,10,Veg Burger,Burger,145
+495,10,Butter Chicken,Main Course,330
+496,10,Fried Rice,Rice,210
+497,10,Paneer Tikka Pizza,Pizza,480
+498,10,Prawn Biryani,Rice,410
+499,10,Egg Biryani,Rice,280
+500,10,Chicken Biryani,Rice,350
